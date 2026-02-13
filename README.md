@@ -72,7 +72,7 @@ The interactive Power BI dashboard includes:
 •	Netflix_Movies_and_TV_Shows.csv – Original uncleaned dataset
 •	Netflix_Movies_and_TV_Shows_Cleaned.xlsx – Cleaned dataset.
 •	Netflix_Movies_and_TV_Shows_Report.pbix – Power BI dashboard file.
-•	README.docx – Project documentation.
+•	Netflix_Project_Documentation.pdf – Project documentation.
 
 📄 Detailed Project Documentation
 The complete project report, including detailed methodology, cleaning steps, and analysis, is available below:
