@@ -59,6 +59,8 @@ The interactive Power BI dashboard includes:
   - Line charts showing content release trends over time
   - Pie charts for rating distribution
   - Slicers for filtering by year, genre, and content type
+    
+👉 Download Full Dashboard : (dashboard/Netflix_Dashboard.pdf)
 
 🔍 Key Insights
 - Movies make up the majority of Netflix content compared to TV Shows
@@ -77,7 +79,7 @@ The interactive Power BI dashboard includes:
 📄 Detailed Project Documentation
 The complete project report, including detailed methodology, cleaning steps, and analysis, is available below:
 
-👉 Download Full Project Documentation : (Netflix_Project_Documentation.pdf)
+👉 Download Full Project Documentation : (docs/Netflix_Project_Documentation.pdf)
 
 🚀 How to Use
 - Download the dataset file to view cleaned data
